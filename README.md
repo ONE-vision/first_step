@@ -1,1 +1,1 @@
-Batch file for create network, subnet and virtual machine in Yandex.Cloud.
+Batch file for creating network, subnet and virtual machine in Yandex.Cloud.
